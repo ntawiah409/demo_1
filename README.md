@@ -1,2 +1,2 @@
 # demo_1
-Demo repository
+This demo repository contains nothing.
